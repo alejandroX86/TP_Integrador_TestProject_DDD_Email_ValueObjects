@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjec_TP_DDD_Email_ValueObjects", "TestProjec_TP_DDD_Email_ValueObjects.csproj", "{CA0E3097-D47E-44FC-B63D-12A4C4C4F7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio_DDD_Email_ValueObjects", "..\Dominio_DDD_Email_ValueObjects\Dominio_DDD_Email_ValueObjects.csproj", "{0F0E768F-0509-401F-8534-859AEE3E4E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0E3097-D47E-44FC-B63D-12A4C4C4F7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0E3097-D47E-44FC-B63D-12A4C4C4F7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0E3097-D47E-44FC-B63D-12A4C4C4F7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0E3097-D47E-44FC-B63D-12A4C4C4F7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0E768F-0509-401F-8534-859AEE3E4E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0E768F-0509-401F-8534-859AEE3E4E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0E768F-0509-401F-8534-859AEE3E4E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0E768F-0509-401F-8534-859AEE3E4E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C303808B-3C35-44CA-9D4E-73AE59EB2A8A}
+	EndGlobalSection
+EndGlobal
